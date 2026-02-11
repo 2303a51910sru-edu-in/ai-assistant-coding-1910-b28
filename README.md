@@ -1,3 +1,10 @@
 2303A51910- B-28 
-
+assignment1--[]
+assignment2--[]
+assignment3.1--[]
+assignment3.2--[]
+assignment4--[]
+assignment5--[]
+assignment6--[]
+assignment7--[]
 assignment(9.1)--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b28/blob/main/ai%209.1%20srihitha.pdf]
