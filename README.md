@@ -1,5 +1,5 @@
 2303A51910- B-28 
-assignment1--[]
+assignment1--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b28/blob/main/2303A51905_AI%20ASSIGNMENT_1.pdf]
 assignment2--[]
 assignment3.1--[]
 assignment3.2--[]
