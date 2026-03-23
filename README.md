@@ -8,3 +8,4 @@ assignment5--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b
 assignment6--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b28/blob/main/2303A51910.AI-ASSIGNMENT-6.1.pdf]
 assignment7--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b28/blob/main/ASSIGNMENT%207.3%20AI-AC%201910(1).pdf]
 assignment(9.1)--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b28/blob/main/ai%209.1%20srihitha.pdf]
+assignment(12)--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b28/blob/main/ASSIGNMENT-14.1%201910.docx]
