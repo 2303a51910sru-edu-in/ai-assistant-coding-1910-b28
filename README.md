@@ -1,6 +1,6 @@
 2303A51910- B-28 
 assignment1--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b28/blob/main/2303A51905_AI%20ASSIGNMENT_1.pdf]
-assignment2--[]
+assignment2--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b28/blob/main/AI.2.1%201910.docx]
 assignment3.1--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b28/blob/main/2303A51910(3_1).pdf]
 assignment3.2--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b28/blob/main/2303A51910(3_2).pdf]
 assignment4--[https://github.com/2303a51910sru-edu-in/ai-assistant-coding-1910-b28/blob/main/2303A51910_AI%20ASSIGNMENT_4.1.pdf]
